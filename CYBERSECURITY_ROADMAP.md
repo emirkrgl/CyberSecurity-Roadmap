@@ -1,7 +1,7 @@
 # The Ultimate Free Cyber Security Roadmap (2026 Edition)
 
 > A structured, explanation-first roadmap for learning cybersecurity from zero — using only free resources.
-> Companion repo: **The Ultimate Free AI Roadmap** *(link your AI repo here)*
+> Companion repo: **The Ultimate Free AI Roadmap** 
 
 ---
 
