@@ -242,7 +242,8 @@ A huge amount of real security work — web app pentesting, API security, DevSec
 - [FastAPI Official Documentation](https://fastapi.tiangolo.com/) — free, excellent docs
 - [Docker — Get Started guide](https://docs.docker.com/get-started/) — free
 - [project based learning](https://github.com/practical-tutorials/project-based-learning) free
-  The best way to learn is by doing!
+
+  (The best way to learn is by doing!)
 
 ### Practice Platforms
 - Build and test your own API locally with Postman/Insomnia (both have free tiers)
