@@ -49,7 +49,9 @@ Every tool you'll ever use in security was written by someone who could program,
 ### Practice Platforms
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/) (Easy problems for now)
-
+- [codecombat](https://t.co/SrRBbJV68j)
+- [code forces](https://codeforces.com/)
+- [code wars](https://www.codewars.com/)
 ### Recommended Books
 - *Automate the Boring Stuff with Python* (Al Sweigart) — free online
 - *Python Crash Course* (Eric Matthes) — commercial, check library access
@@ -239,6 +241,8 @@ A huge amount of real security work — web app pentesting, API security, DevSec
 ### Free Resources
 - [FastAPI Official Documentation](https://fastapi.tiangolo.com/) — free, excellent docs
 - [Docker — Get Started guide](https://docs.docker.com/get-started/) — free
+- [project based learning](https://github.com/practical-tutorials/project-based-learning) free
+  The best way to learn is by doing!
 
 ### Practice Platforms
 - Build and test your own API locally with Postman/Insomnia (both have free tiers)
